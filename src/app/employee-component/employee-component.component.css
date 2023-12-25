@@ -1,0 +1,25 @@
+.red-row {
+    background-color: lightcoral;
+    
+  }
+  h1,h2{
+    text-align: center;
+    font: 1.5em sans-serif;
+  }
+  .table-row{
+    border: 1px solid black; 
+    font-weight: bold;
+  }
+  .table-houswork{
+    border: 1px solid black; 
+    font-weight: bold;
+    text-align: center;
+  }
+  .table-head{
+    background-color: lightgray;
+  }
+  .table-custom{
+    border-collapse: collapse; 
+    width: 100%;
+    margin-bottom: 2em; 
+  }
